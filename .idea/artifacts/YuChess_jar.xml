@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="YuChess:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/YuChess_jar</output-path>
+    <root id="archive" name="YuChess.jar">
+      <element id="module-output" name="YuChess" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/commons-collections4-4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/substance.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
